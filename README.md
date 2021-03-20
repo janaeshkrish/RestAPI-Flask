@@ -19,4 +19,4 @@
  ## Usage
   Open the terminal in the current path 
   > python main.py
-  > http://127.0.0.1:5000/video/?id.. 
+ 
